@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\женя\source\repos\project40\project40\source.cpp(187): warning C4552: "+": результат выражения не используется
+c:\users\женя\source\repos\project40\project40\source.cpp(184): warning C4101: p: неиспользованная локальная переменная
+c:\users\женя\source\repos\project40\project40\source.cpp(311): warning C4715: is_died: значение возвращается не при всех путях выполнения
+c:\users\женя\source\repos\project40\project40\source.cpp(331): warning C4715: eat_food: значение возвращается не при всех путях выполнения
+  Project40.vcxproj -> C:\Users\Женя\source\repos\Project40\Debug\Project40.exe
